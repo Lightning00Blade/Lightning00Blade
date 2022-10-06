@@ -6,7 +6,7 @@
 
 - 👀 The main thing I do is Web Development.
 - 🌱 I'm currently focusing on learning AWS and Cloud Computing.
-- 🥅 For my 2021 I want to make contribution to an Open Source project.
+- 🥅 For my 2022 I want to make contribution to an Open Source project.
 
 ## How can you reach me?
 
